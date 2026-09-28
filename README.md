@@ -21,6 +21,7 @@ Thank you bmd hacks for the guided astc to speed up patching
 Thank you to the porting community for testing this game and giving me so much support.
 
 To obtain the correct game files, download the latest version on steam and place the exe in the ports gamedata/ folder
+https://store.steampowered.com/app/319510/Five_Nights_at_Freddys/
 
 ## Patching takes 10-30 minutes depending on device, possibly longer, be patient.
 
